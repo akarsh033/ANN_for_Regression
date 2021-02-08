@@ -1,5 +1,5 @@
 # neuralNetworkForRegressionProblem
-A deep learning model for predicting power consumption. This is regression problem. 
+A deep learning model for predicting power consumption based on a time series dataset.
 
 ### Code is available in .ipynb and .py files
 
