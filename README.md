@@ -5,7 +5,7 @@ A deep learning model for predicting power consumption. This is regression probl
 
 ### Detailed with comments. 
 
-### Regression Score : 0.911
+### Regression Score : 0.909
 
 ### Mean_square_error = 24.564
 
